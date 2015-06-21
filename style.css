@@ -1,0 +1,12 @@
+#wrapper>div {
+    text-align: center;
+    line-height: 4rem;
+}
+
+body {
+    background-color: azure;
+}
+
+#degradiruyRu {
+    font-weight: bold;
+}
